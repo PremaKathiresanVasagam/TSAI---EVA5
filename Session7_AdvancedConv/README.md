@@ -1,7 +1,5 @@
 # Session 7 - Advanced Convolutions
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/TSAI-EVA5/blob/master/Week7/EVA5S7.ipynb)
-
 ## Assignment Objective
 
 * Change the code such that it uses GPU
