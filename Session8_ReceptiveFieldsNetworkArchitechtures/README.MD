@@ -1,7 +1,5 @@
 # Session 8 - Receptive Fields and Network Architectures
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/TSAI-EVA5/blob/master/Week8/EVA5S8.ipynb)
-
 ## Assignment Objective
 
 * Extract Resnet18 model from pytorch-cifar repo
