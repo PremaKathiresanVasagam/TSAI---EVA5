@@ -1,11 +1,5 @@
 # Session 9 - Data Augmentations
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/TSAI-EVA5/blob/master/Week9/EVA5S9.ipynb)
-
-## Link to Classification Module repo
-
-[https://github.com/anubhabPanda/Picasso](https://github.com/anubhabPanda/Picasso)
-
 ## Assignment Objective
 
 * Move Week8's code transformations to Albumentations. Apply ToTensor, HorizontalFlip, Normalize (at min) + More (for additional points)
