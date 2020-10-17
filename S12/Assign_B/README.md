@@ -38,7 +38,7 @@ log_Norm_bbox_Height - log(Normalized bbox height (0 - 1))
 ## 7.Elbow method and k-means clustering
 The number of clusters is found using elbow method.
 
-![Img2](images_for_README/Elbow_method.PNG)
+![Img2](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Elbow_method.PNG)
 
 Number of clusters = 5
 
