@@ -13,7 +13,7 @@ As image resolution details are not present in the above downloaded JSON/CSV, cr
 * Keep only relevant columns and remove the unwanted columns
 
 ## 5. Final frame attributes and explanation:
-![Img](images_for_README/Primary_DF.PNG)
+![Img](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Primary_DF.PNG)
 
 * Explanation of attributes:
 Class - Boots/HardHat/Mask/Vests
@@ -26,7 +26,7 @@ BBox_Width - Width of the bounding box(x)
 BBox_height- Height of the bounding box(y)
 
 ## 6. BBox width and Height - Normalized and log(Normalized) are calculated
-![Img1](images_for_README/Final_DF.PNG)
+![Img1](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Final_DF.PNG)
 
 * Explanation of attributes:
 Norm_bbox_Width - Normalized bbox width (0 - 1)
@@ -44,8 +44,8 @@ Number of clusters = 5
 
 * Normalised BBox width Vs Normalised BBox Height
 
-![Img3]((images_for_README/Norm_Cluster.PNG))
+![Img3](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Norm_Cluster.PNG)
 
 * Log-Normalised BBox width Vs Log-Normalised BBox Height
 
-![Img4]((images_for_README/Log_Norm_Cluster.PNG))
+![Img4](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Log_Norm_Cluster.PNG)
