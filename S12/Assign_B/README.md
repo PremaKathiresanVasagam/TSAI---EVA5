@@ -15,37 +15,37 @@ As image resolution details are not present in the above downloaded JSON/CSV, cr
 ## 5. Final frame attributes and explanation:
 ![Img](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Primary_DF.PNG)
 
-* Explanation of attributes:
-Class - Boots/HardHat/Mask/Vests
-Filename   - Image name
-Img_width  - Width of the image
-Img_height - Height of the image #Resolution of image = Img_width X Img_height
-X          - In X-axis, Start of bounding box from top left corner
-Y          - In Y-axis, Start of bounding box from top left corner
-BBox_Width - Width of the bounding box(x)
-BBox_height- Height of the bounding box(y)
+* Explanation of attributes: <br />
+Class - Boots/HardHat/Mask/Vests <br />
+Filename   - Image name <br />
+Img_width  - Width of the image <br />
+Img_height - Height of the image #Resolution of image = Img_width X Img_height <br />
+X          - In X-axis, Start of bounding box from top left corner <br />
+Y          - In Y-axis, Start of bounding box from top left corner <br />
+BBox_Width - Width of the bounding box(x) <br />
+BBox_height- Height of the bounding box(y) <br />
 
 ## 6. BBox width and Height - Normalized and log(Normalized) are calculated
 ![Img1](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Final_DF.PNG)
 
-* Explanation of attributes:
-Norm_bbox_Width - Normalized bbox width (0 - 1)
-Norm_bbox_Height - Normalized bbox height (0 - 1)
-log_Norm_bbox_Width - log(Normalized bbox width (0 - 1))
-log_Norm_bbox_Height - log(Normalized bbox height (0 - 1))
+* Explanation of attributes: <br />
+Norm_bbox_Width - Normalized bbox width (0 - 1) <br />
+Norm_bbox_Height - Normalized bbox height (0 - 1) <br />
+log_Norm_bbox_Width - log(Normalized bbox width (0 - 1)) <br />
+log_Norm_bbox_Height - log(Normalized bbox height (0 - 1)) <br />
 
 
 ## 7.Elbow method and k-means clustering
-The number of clusters is found using elbow method.
+The number of clusters is found using elbow method. <br />
 
 ![Img2](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Elbow_method.PNG)
 
 Number of clusters = 5
 
-* Normalised BBox width Vs Normalised BBox Height
+* Normalised BBox width Vs Normalised BBox Height <br />
 
 ![Img3](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Norm_Cluster.PNG)
 
-* Log-Normalised BBox width Vs Log-Normalised BBox Height
+* Log-Normalised BBox width Vs Log-Normalised BBox Height <br />
 
 ![Img4](https://github.com/PremaKathiresanVasagam/TSAI---EVA5/blob/master/S12/Assign_B/Images_for_README/Log_Norm_Cluster.PNG)
